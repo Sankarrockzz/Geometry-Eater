@@ -3,7 +3,7 @@
 #include<conio.h>
 #include<time.h>
 #include<windows.h>
-#include<snk/rx.h>
+#include<rx.h>
 using namespace std;
 
 void gotoxy(int r, int c)
